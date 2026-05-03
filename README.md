@@ -54,6 +54,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-2.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-3.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-4.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-d.png) 
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-5.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-6.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-7.png)  
